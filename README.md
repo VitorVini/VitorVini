@@ -10,7 +10,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Estudando Estas Tecnologias</h1>
-    <p align="center" height="30" width="40">
+    <p align="center">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,nodejs,react,html,css,mysql,git" />
     </a>
@@ -18,12 +18,10 @@
     
   
   <h1 align="center">Redes Sociais</h1>
-    <a href = "mailto: vitor.vinicius2907@gmail.com">
-      <img width="30" src="https://skillicons.dev/icons?i=email">
-    </a>
     <a href = "https://www.linkedin.com/in/vitorviniciussilva/">
-      <img width="25" src="https://skillicons.dev/icons?i=linkedin">
+      <img width="35" src="https://skillicons.dev/icons?i=linkedin">
+    </a>
+    <a href = "https://www.instagram.com/vitor_visilva/">
+      <img width="35" src="https://skillicons.dev/icons?i=instagram">
     </a>
 </div>
-  
-![Snake animation](https://github.com/VitorVini/VitorVini/blob/output/github-contribution-grid-snake.svg)
