@@ -1,4 +1,4 @@
-## Faala Dev, Vitor Aqui! 👋
+## Oopa Dev, Vitor Aqui!
 
 <div>
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorVini&show_icons=true&theme=neon&include_all_commits=true&count_private=true"/>
@@ -12,20 +12,17 @@
     <h1 align="center">Estudando Estas Tecnologias</h1>
     <p align="center" height="30" width="40">
     <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cs,css,dotnet,mysql,nodejs,py,react" />
+    <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,nodejs,react,html,css,mysql,git" />
     </a>
    </div>
     
   
   <h1 align="center">Redes Sociais</h1>
     <a href = "mailto: vitor.vinicius2907@gmail.com">
-      <img width="30" src="gmail.svg">
+      <img width="30" src="https://skillicons.dev/icons?i=email">
     </a>
     <a href = "https://www.linkedin.com/in/vitorviniciussilva/">
-      <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/vitor_visilva/">
-      <img width="25" src="instagram.png">
+      <img width="25" src="https://skillicons.dev/icons?i=linkedin">
     </a>
 </div>
   
