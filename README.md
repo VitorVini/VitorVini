@@ -10,7 +10,7 @@
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Estudando Estas Tecnologias</h1>
-    <p align="center">
+    <p align="right">
     <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,cs,dotnet,js,nodejs,react,html,css,mysql,git" />
     </a>
