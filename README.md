@@ -8,7 +8,7 @@
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
-    <img align="left" height="250" alt="coding-time" src="coding.gif">
+    <img align="left" height="250" alt="coding-time" src="200w.gif">
     <h1 align="center">Estudando Estas Tecnologias</h1>
     <p align="center">
     <a href="https://skillicons.dev">
